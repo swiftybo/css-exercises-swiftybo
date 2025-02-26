@@ -1,0 +1,19 @@
+.funky_red {
+    background-color: rgb(240, 128, 128);
+    color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#boldy {
+    color: rgb(1, 26, 250);
+    font-size: 36px; 
+}
+
+.medium {
+    font-size: 24px;
+}
+
+#lastly {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
